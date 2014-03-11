@@ -1,0 +1,78 @@
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\Learning.Web.Tests.dll.config
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\Learning.Web.Tests.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\Learning.Web.Tests.pdb
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\Learning.Web.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Http.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\Learning.Web.pdb
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Http.xml
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\obj\Debug\Learning.Web.Tests.csprojResolveAssemblyReference.cache
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\obj\Debug\Learning.Web.Tests.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\obj\Debug\Learning.Web.Tests.pdb
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\Learning.Data.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\Learning.DAL.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\EntityFramework.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\Learning.Data.pdb
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\Learning.DAL.pdb
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\Learning.Web.Tests\bin\Debug\EntityFramework.xml
+D:\eLearning\Learning.Web.Tests\bin\Debug\Learning.Web.Tests.dll.config
+D:\eLearning\Learning.Web.Tests\bin\Debug\Learning.Web.Tests.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\Learning.Web.Tests.pdb
+D:\eLearning\Learning.Web.Tests\bin\Debug\Learning.Web.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Helpers.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Http.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Mvc.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Razor.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\System.Web.WebPages.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\Learning.Data.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\Learning.DAL.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\EntityFramework.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\Learning.Web.pdb
+D:\eLearning\Learning.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\eLearning\Learning.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Helpers.xml
+D:\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Http.xml
+D:\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Mvc.xml
+D:\eLearning\Learning.Web.Tests\bin\Debug\System.Web.Razor.xml
+D:\eLearning\Learning.Web.Tests\bin\Debug\System.Web.WebPages.xml
+D:\eLearning\Learning.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\eLearning\Learning.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\eLearning\Learning.Web.Tests\bin\Debug\Learning.Data.pdb
+D:\eLearning\Learning.Web.Tests\bin\Debug\Learning.DAL.pdb
+D:\eLearning\Learning.Web.Tests\bin\Debug\EntityFramework.xml
+D:\eLearning\Learning.Web.Tests\obj\Debug\Learning.Web.Tests.csprojResolveAssemblyReference.cache
+D:\eLearning\Learning.Web.Tests\obj\Debug\Learning.Web.Tests.dll
+D:\eLearning\Learning.Web.Tests\obj\Debug\Learning.Web.Tests.pdb
+D:\eLearning\Learning.Web.Tests\bin\Debug\Ninject.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\Ninject.Web.Common.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\WebApiContrib.IoC.Ninject.dll
+D:\eLearning\Learning.Web.Tests\bin\Debug\Ninject.xml
+D:\eLearning\Learning.Web.Tests\bin\Debug\Ninject.Web.Common.xml
+D:\eLearning\Learning.Web.Tests\bin\Debug\WebActivator.dll

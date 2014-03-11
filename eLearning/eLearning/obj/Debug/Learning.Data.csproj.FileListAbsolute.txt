@@ -1,0 +1,19 @@
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\eLearning\bin\Debug\Learning.Data.dll.config
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\eLearning\bin\Debug\Learning.Data.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\eLearning\bin\Debug\Learning.Data.pdb
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\eLearning\bin\Debug\EntityFramework.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\eLearning\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\eLearning\bin\Debug\EntityFramework.xml
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\eLearning\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\eLearning\obj\Debug\Learning.Data.dll
+c:\users\jzcvqp\documents\visual studio 2013\Projects\eLearning\eLearning\obj\Debug\Learning.Data.pdb
+C:\Users\jzcvqp\Documents\Visual Studio 2013\Projects\eLearning\eLearning\obj\Debug\Learning.Data.csprojResolveAssemblyReference.cache
+D:\eLearning\eLearning\bin\Debug\Learning.Data.dll.config
+D:\eLearning\eLearning\bin\Debug\Learning.Data.dll
+D:\eLearning\eLearning\bin\Debug\Learning.Data.pdb
+D:\eLearning\eLearning\bin\Debug\EntityFramework.dll
+D:\eLearning\eLearning\bin\Debug\EntityFramework.SqlServer.dll
+D:\eLearning\eLearning\bin\Debug\EntityFramework.xml
+D:\eLearning\eLearning\bin\Debug\EntityFramework.SqlServer.xml
+D:\eLearning\eLearning\obj\Debug\Learning.Data.dll
+D:\eLearning\eLearning\obj\Debug\Learning.Data.pdb
