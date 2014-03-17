@@ -33,20 +33,20 @@ namespace Learning.Web.Controllers
             : base(repo)
         {
         }
+        /*
+                public IEnumerable<CourseModel> Get()
+                {
+                    IQueryable<Course> query;
 
-        public IEnumerable<CourseModel> Get()
-        {
-            IQueryable<Course> query;
+                    query = TheRepository.GetAllCourses();
 
-            query = TheRepository.GetAllCourses();
+                    var results = query
+                                  .ToList()
+                                  .Select(s => TheModelFactory.Create(s));
 
-            var results = query
-                          .ToList()
-                          .Select(s => TheModelFactory.Create(s));
-
-            return results;
-        }
-
+                    return results;
+                }
+        */  
         public HttpResponseMessage GetCourse(int id)
         {
             try

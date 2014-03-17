@@ -16,3 +16,12 @@ D:\eLearning\Learning.DAL\bin\Debug\EntityFramework.xml
 D:\eLearning\Learning.DAL\obj\Debug\Learning.DAL.csprojResolveAssemblyReference.cache
 D:\eLearning\Learning.DAL\obj\Debug\Learning.DAL.dll
 D:\eLearning\Learning.DAL\obj\Debug\Learning.DAL.pdb
+C:\Users\jzcvqp\Documents\GitHub\eLearning\eLearning\Learning.DAL\bin\Debug\Learning.DAL.dll
+C:\Users\jzcvqp\Documents\GitHub\eLearning\eLearning\Learning.DAL\bin\Debug\Learning.DAL.pdb
+C:\Users\jzcvqp\Documents\GitHub\eLearning\eLearning\Learning.DAL\bin\Debug\EntityFramework.dll
+C:\Users\jzcvqp\Documents\GitHub\eLearning\eLearning\Learning.DAL\bin\Debug\Learning.Data.dll
+C:\Users\jzcvqp\Documents\GitHub\eLearning\eLearning\Learning.DAL\bin\Debug\Learning.Data.pdb
+C:\Users\jzcvqp\Documents\GitHub\eLearning\eLearning\Learning.DAL\bin\Debug\EntityFramework.xml
+C:\Users\jzcvqp\Documents\GitHub\eLearning\eLearning\Learning.DAL\obj\Debug\Learning.DAL.csprojResolveAssemblyReference.cache
+C:\Users\jzcvqp\Documents\GitHub\eLearning\eLearning\Learning.DAL\obj\Debug\Learning.DAL.dll
+C:\Users\jzcvqp\Documents\GitHub\eLearning\eLearning\Learning.DAL\obj\Debug\Learning.DAL.pdb

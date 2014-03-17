@@ -17,3 +17,13 @@ D:\eLearning\eLearning\bin\Debug\EntityFramework.xml
 D:\eLearning\eLearning\bin\Debug\EntityFramework.SqlServer.xml
 D:\eLearning\eLearning\obj\Debug\Learning.Data.dll
 D:\eLearning\eLearning\obj\Debug\Learning.Data.pdb
+C:\Users\jzcvqp\Documents\GitHub\eLearning\eLearning\eLearning\bin\Debug\Learning.Data.dll.config
+C:\Users\jzcvqp\Documents\GitHub\eLearning\eLearning\eLearning\bin\Debug\Learning.Data.dll
+C:\Users\jzcvqp\Documents\GitHub\eLearning\eLearning\eLearning\bin\Debug\Learning.Data.pdb
+C:\Users\jzcvqp\Documents\GitHub\eLearning\eLearning\eLearning\bin\Debug\EntityFramework.dll
+C:\Users\jzcvqp\Documents\GitHub\eLearning\eLearning\eLearning\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jzcvqp\Documents\GitHub\eLearning\eLearning\eLearning\bin\Debug\EntityFramework.xml
+C:\Users\jzcvqp\Documents\GitHub\eLearning\eLearning\eLearning\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jzcvqp\Documents\GitHub\eLearning\eLearning\eLearning\obj\Debug\Learning.Data.dll
+C:\Users\jzcvqp\Documents\GitHub\eLearning\eLearning\eLearning\obj\Debug\Learning.Data.pdb
+C:\Users\jzcvqp\Documents\GitHub\eLearning\eLearning\eLearning\obj\Debug\Learning.Data.csprojResolveAssemblyReference.cache

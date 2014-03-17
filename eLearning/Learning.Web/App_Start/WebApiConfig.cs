@@ -40,9 +40,13 @@ namespace Learning.Web
                     routeTemplate: "api/courses/{courseId}/students/{userName}",
                     defaults: new { controller = "Enrollments", userName = RouteParameter.Optional }
                     );
+                config.Routes.MapHttpRoute(
+            name: "students",
+            routeTemplate: "api/students/{userName}",
+            defaults: new { controller = "students", userName = RouteParameter.Optional }
+            );
 
-
-          config.Filters.Add(new ForceHttpsAttribute());
+          //config.Filters.Add(new ForceHttpsAttribute());
 
           config.Services.Replace(typeof(IHttpControllerSelector), new LearningControllerSelector((config)));
         }
